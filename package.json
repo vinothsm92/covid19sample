@@ -11,7 +11,7 @@
     "start:dev": "node ./build/cli-tools.js --clear dist --create dist && webpack-dev-server --config ./build/webpack.config.client.dev.js",
     "start:prod": "node ./build/cli-tools.js --clear dist --create dist && webpack-dev-server --config ./build/webpack.config.client.prod.js"
   },
-  "author": "Webkom",
+  "author": "Vinoth",
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.4.4",
